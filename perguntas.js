@@ -47,19 +47,19 @@ criaCartao(
 )
 
 criaCartao(
-'Geografia',
-'Qual a montanha mais alta do mundo?',
-'Monte Everest'
+'Conhecimentos Gerais',
+'Que navio famoso naufragou na sua viagem inaugural?',
+'Titanic'
 )
 
 criaCartao(
-'Geografia',
-'Qual a montanha mais alta do mundo?',
-'Monte Everest'
+'Ciências',
+'Qual o satélite natural da Terra?',
+'Lua'
 )
 
 criaCartao(
-'Geografia',
-'Qual a montanha mais alta do mundo?',
-'Monte Everest'
+'Historia',
+'Que grande evento histórico aconteceu em 1822 no Brasil?',
+'Independência do Brasil'
 )
